@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044120329015",
+    "project_id": "bl-app-1d137",
+    "storage_bucket": "bl-app-1d137.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044120329015:android:ae537bb6e5b5b725c858b2",
+        "android_client_info": {
+          "package_name": "com.bharatlinker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044120329015-q6lnvnirtgce41f5g3nugl16r5o6uu72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bharatlinker.app",
+            "certificate_hash": "ea3ff30328dac29c8fc9b2a54efb6fb0690fc4c0"
+          }
+        },
+        {
+          "client_id": "1044120329015-o3044ve2i0ing55mjjp67ija3dvvvj9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWyPhz33fyWL82c0kLXFWVVnUNJ5iCXW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044120329015-o3044ve2i0ing55mjjp67ija3dvvvj9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
